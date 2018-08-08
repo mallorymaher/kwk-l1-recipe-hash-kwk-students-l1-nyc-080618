@@ -1,4 +1,4 @@
-perfect_10_recipe = {Almond Flour: "2 cups", Gluten Free Whole Oats: "1 cup", Kosher Salt: "1/2 tea spoon", Baking Powder: "1/2 Tea Spoon", Baking Soda: "1/4 Tea Spoon", Xanthan Gum: "1/2 Tea Spoon", Slivered Almonds, Lightly Toasted: "1/4 Cup", Mini Dark Chocolate Chips: "3/4 Cup", Olive Oil: "1/2 Cup", Agave: "1/4 Cup"}
+perfect_10_recipe = {Almond_Flour: "2 cups", Gluten_Free_Whole_Oats: "1 cup", Kosher_Salt: "1/2 tea spoon", Baking_Powder: "1/2 Tea Spoon", Baking_Soda: "1/4 Tea Spoon", Xanthan_Gum: "1/2 Tea Spoon", Slivered_Almonds, Lightly_Toasted: "1/4 Cup", Mini_Dark_Chocolate_Chips: "3/4 Cup", Olive_Oil: "1/2 Cup", Agave: "1/4 Cup"}
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
