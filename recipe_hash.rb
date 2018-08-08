@@ -1,5 +1,6 @@
 perfect_10_recipe = {Almond_Flour: "2 cups", Gluten_Free_Whole_Oats: "1 cup", Kosher_Salt: "1/2 tea spoon", Baking_Powder: "1/2 Tea Spoon", Baking_Soda: "1/4 Tea Spoon", Xanthan_Gum: "1/2 Tea Spoon", Slivered_Almonds_Lightly_Toasted: "1/4 Cup", Mini_Dark_Chocolate_Chips: "3/4 Cup", Olive_Oil: "1/2 Cup", Agave: "1/4 Cup"}
 
+puts perfect_10_recipe
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
 #  - gluten freewhole oats - 1 cup
@@ -14,11 +15,11 @@ perfect_10_recipe = {Almond_Flour: "2 cups", Gluten_Free_Whole_Oats: "1 cup", Ko
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
-def recipe_ingredients
-  return perfect_10_recipe
-end
+# def recipe_ingredients
+#   return perfect_10_recipe
+# end
 
-recipe_ingredients
+# recipe_ingredients
 
 # #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
 # def amount_of_chocolate_chips(perfect_10_recipe)
